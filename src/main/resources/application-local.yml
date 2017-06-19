@@ -15,4 +15,4 @@ spring:
 #        testOnBorrow: false
 #        testOnReturn: false
 #        poolPreparedStatements: true
-#        maxPoolPreparedStatementPerConnectionSize: 20
+#        maxPoolPreparedStatementPerConnectionSize: 20对
