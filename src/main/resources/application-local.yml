@@ -7,6 +7,8 @@ spring:
         initialSize: 10
         minIdle: 10
         maxActive: 100
+
+
 #        maxWait: 60000
 #        timeBetweenEvictionRunsMillis: 60000
 #        minEvictableIdleTimeMillis: 300000
