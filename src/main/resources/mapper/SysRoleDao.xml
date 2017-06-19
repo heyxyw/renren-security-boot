@@ -41,7 +41,7 @@
 			</if>
 		</where>
 	</select>
-	
+
 	<insert id="save" parameterType="io.renren.entity.SysRoleEntity" useGeneratedKeys="true" keyProperty="roleId">
 		insert into sys_role
 		(
